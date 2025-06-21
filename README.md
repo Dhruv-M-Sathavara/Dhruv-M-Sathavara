@@ -27,7 +27,7 @@ Sathavara Dhruv Mukheshbhai
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-M-Sathavara&theme=transparent&hide_border=false" width="300px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenilKhatri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-M-Sathavara&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300px" />
     </td>
   </tr>
 </table>
