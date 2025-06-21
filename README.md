@@ -21,7 +21,7 @@ Sathavara Dhruv Mukheshbhai
 
 # 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-M-Sathavara&theme=transparent&hide_border=false" width="300px" />
