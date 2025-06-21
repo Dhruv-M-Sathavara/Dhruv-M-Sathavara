@@ -21,24 +21,15 @@ Sathavara Dhruv Mukheshbhai
 
 # 📊 GitHub Stats
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/Dhruv-M-Sathavara.svg" alt="GitHub Contribution Graph" />
-</p>
-
-<!-- Streak and Top Languages -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-M-Sathavara&theme=tokyonight&hide_border=true" width="500px" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-M-Sathavara&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="450px" alt="Top Languages" />
-</p>
-
-<!-- Optional: Add overall GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-M-Sathavara&show_icons=true&theme=tokyonight&hide_border=true" width="500px" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-M-Sathavara&theme=transparent&hide_border=false" width="300px" />
+    </td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenilKhatri&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="300px" />
+    </td>
+  </tr>
+</table>
 
 
 ---
